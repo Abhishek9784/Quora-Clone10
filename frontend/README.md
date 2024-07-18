@@ -66,20 +66,20 @@ npm start
 
 ![Login Page]
 
-![Quora-Login](https://github.com/user-attachments/assets/b4137b38-0179-4197-9e04-adb6ff83b023)
+(https://github.com/user-attachments/assets/b4137b38-0179-4197-9e04-adb6ff83b023)
 
 
 
 - Home Page
 
-![Home Page]![Screenshot (35)](https://github.com/user-attachments/assets/7f2db7da-fa01-4daf-af14-13e68132449d)
+![Screenshot (35)](https://github.com/user-attachments/assets/7f2db7da-fa01-4daf-af14-13e68132449d)
 
 
 
 
 - Add Question Page
 
-![Add question]![Screenshot (36)](https://github.com/user-attachments/assets/f84abeab-3efc-4fe2-9f81-00b15b5555df)
+![Screenshot (36)](https://github.com/user-attachments/assets/f84abeab-3efc-4fe2-9f81-00b15b5555df)
 
 
 
@@ -90,7 +90,7 @@ npm start
 - Add Answer Page
 
 
-![Add Answer]![Screenshot (39)](https://github.com/user-attachments/assets/17952eb7-160d-4041-afdd-c01cca40ff6a)
+![Screenshot (39)](https://github.com/user-attachments/assets/17952eb7-160d-4041-afdd-c01cca40ff6a)
 
 
 
@@ -108,7 +108,7 @@ npm start
 - Add Payment Page
 
 
-![Add Payment]![Screenshot_2024-07-17-17-12-30-108_com android chrome 1](https://github.com/user-attachments/assets/62ac0310-dbf6-49cc-8ca5-e8499169817a)
+![Screenshot_2024-07-17-17-12-30-108_com android chrome 1](https://github.com/user-attachments/assets/62ac0310-dbf6-49cc-8ca5-e8499169817a)
 
 
 
