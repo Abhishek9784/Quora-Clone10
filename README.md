@@ -64,7 +64,7 @@ npm start
 # Screenshots of pages :framed_picture:
 
 
-![Login Page]
+- Login Page
 
 ![Screenshot (44)](https://github.com/user-attachments/assets/58f7147a-ca17-40f4-8624-e15cc8065757)
 
