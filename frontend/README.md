@@ -64,9 +64,9 @@ npm start
 # Screenshots of pages :framed_picture:
 
 
-![Login Page]
+- Login Page
 
-(https://github.com/user-attachments/assets/b4137b38-0179-4197-9e04-adb6ff83b023)
+![Screenshot (44)](https://github.com/user-attachments/assets/58f7147a-ca17-40f4-8624-e15cc8065757)
 
 
 
@@ -116,3 +116,9 @@ npm start
 
 
 ![Screenshot (41)](https://github.com/user-attachments/assets/1899408b-083a-44c7-b0fe-00711a81f217)
+
+
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
