@@ -1,70 +1,118 @@
-# Getting Started with Create React App
+# Quora Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![logo](https://qph.fs.quoracdn.net/main-qimg-edd39bccdd4de5b3571f225bc8dd534c)
 
-## Available Scripts
+### Quora is a social platform to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
 
-In the project directory, you can run:
+# Steps to browse the project:
 
-### `npm start`
+### First you clone or download this project from here.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```
+git clone https://github.com/Abhishek9784/Quora-Clone10.git
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### And then open it in VS Code and then install dependencies from below command.
 
-### `npm test`
+```
+npm i
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Run the project from below command.
 
-### `npm run build`
+```
+npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Desired Features:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [ ] Authentication
+  - [ ] Signup
+  - [ ] Login
+  - [ ] Server-Side sessions handling
+  
+- [ ] Asking Questions
+- [ ] Answering Asked Questions
+- [ ] Upvoting or Downvoting Questions
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [ ] User gets notified when his/her question is answered
+- [ ] Making web app realtime
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Main Pages :books:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [x] Signup/Signin Page
+- [x] Home Page / Question Page 
+- [x] Answer Page
+- [x] Following Page
+- [x] Add Question Page
+- [x] Add Answer Page
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+# Technologies Used :hammer_and_wrench:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- React
+- Redux
+- Firebase
+- MaterialUI
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+# Screenshots of pages :framed_picture:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+![Login Page]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Quora-Login](https://github.com/user-attachments/assets/b4137b38-0179-4197-9e04-adb6ff83b023)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+- Home Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Home Page]![Screenshot (35)](https://github.com/user-attachments/assets/7f2db7da-fa01-4daf-af14-13e68132449d)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Add Question Page
+
+![Add question]![Screenshot (36)](https://github.com/user-attachments/assets/f84abeab-3efc-4fe2-9f81-00b15b5555df)
+
+
+
+![Screenshot (38)](https://github.com/user-attachments/assets/783762ef-b1cb-4931-98a7-0107b3f4daed)
+
+
+
+- Add Answer Page
+
+
+![Add Answer]![Screenshot (39)](https://github.com/user-attachments/assets/17952eb7-160d-4041-afdd-c01cca40ff6a)
+
+
+
+
+![Screenshot (40)](https://github.com/user-attachments/assets/b39507c8-ff57-48e5-af3d-bbd790196c32)
+
+
+
+- Upvote/Down-vote Page
+
+
+![Screenshot_2024-07-18-12-44-35-003-edit_com android chrome](https://github.com/user-attachments/assets/517ac1bc-4223-4a29-af48-62846f378a10)
+
+
+- Add Payment Page
+
+
+![Add Payment]![Screenshot_2024-07-17-17-12-30-108_com android chrome 1](https://github.com/user-attachments/assets/62ac0310-dbf6-49cc-8ca5-e8499169817a)
+
+
+
+- Logout Page
+
+
+![Screenshot (41)](https://github.com/user-attachments/assets/1899408b-083a-44c7-b0fe-00711a81f217)
