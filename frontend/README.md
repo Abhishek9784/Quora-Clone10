@@ -102,7 +102,7 @@ npm start
 - Upvote/Down-vote Page
 
 
-![Screenshot_2024-07-18-12-44-35-003-edit_com android chrome](https://github.com/user-attachments/assets/517ac1bc-4223-4a29-af48-62846f378a10)
+![Screenshot_2024-07-18-12-44-35-003-edit_com android chrome](https://github.com/user-attachments/assets/bb3f90de-f834-4ac8-bb07-83dded21a5b4)
 
 
 - Add Payment Page
