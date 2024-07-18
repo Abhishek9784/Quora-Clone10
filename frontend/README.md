@@ -66,56 +66,58 @@ npm start
 
 - Login Page
 
-![Screenshot (44)](https://github.com/user-attachments/assets/58f7147a-ca17-40f4-8624-e15cc8065757)
+![Screenshot (44)](https://github.com/user-attachments/assets/9764d08d-cd04-475c-b9bc-634d2ff2906b)
 
 
 
 - Home Page
 
-![Screenshot (35)](https://github.com/user-attachments/assets/7f2db7da-fa01-4daf-af14-13e68132449d)
+![Screenshot (35)](https://github.com/user-attachments/assets/40f1c094-bd94-4ef0-a2f2-2571be6aceee)
 
 
 
 
 - Add Question Page
 
-![Screenshot (36)](https://github.com/user-attachments/assets/f84abeab-3efc-4fe2-9f81-00b15b5555df)
+![Screenshot (36)](https://github.com/user-attachments/assets/b82e1071-3860-476e-8168-6a44ec4bdaf7)
 
 
 
-![Screenshot (38)](https://github.com/user-attachments/assets/783762ef-b1cb-4931-98a7-0107b3f4daed)
+![Screenshot (38)](https://github.com/user-attachments/assets/21a25cbd-77bd-4455-85c6-328ed5ef6470)
 
 
 
 - Add Answer Page
 
 
-![Screenshot (39)](https://github.com/user-attachments/assets/17952eb7-160d-4041-afdd-c01cca40ff6a)
+![Screenshot (39)](https://github.com/user-attachments/assets/20d79946-17bf-4205-9072-db2d938a810a)
 
 
 
 
-![Screenshot (40)](https://github.com/user-attachments/assets/b39507c8-ff57-48e5-af3d-bbd790196c32)
+
+![Screenshot (40)](https://github.com/user-attachments/assets/6e587472-fbd1-4c71-98fa-577cb3779dc7)
 
 
 
 - Upvote/Down-vote Page
 
 
-![Screenshot_2024-07-18-12-44-35-003-edit_com android chrome](https://github.com/user-attachments/assets/bb3f90de-f834-4ac8-bb07-83dded21a5b4)
+![Screenshot_2024-07-18-12-44-35-003-edit_com android chrome](https://github.com/user-attachments/assets/9e6eb86d-2323-49c5-8c1c-992019697ffd)
+
 
 
 - Add Payment Page
 
 
-![Screenshot_2024-07-17-17-12-30-108_com android chrome 1](https://github.com/user-attachments/assets/62ac0310-dbf6-49cc-8ca5-e8499169817a)
+![Screenshot_2024-07-17-17-12-30-108_com android chrome 1](https://github.com/user-attachments/assets/9c81a8d4-4c0f-458a-867a-1b88ea908e22)
 
 
 
 - Logout Page
 
 
-![Screenshot (41)](https://github.com/user-attachments/assets/1899408b-083a-44c7-b0fe-00711a81f217)
+![Screenshot (41)](https://github.com/user-attachments/assets/962a8196-d429-420e-aed7-9df2c6bb8f9d)
 
 
 
